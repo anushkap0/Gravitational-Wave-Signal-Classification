@@ -2,10 +2,9 @@
 
 ## Project Overview
 
-This project focuses on detecting and classifying gravitational wave signals from noisy space data using deep learning. A Convolutional Neural Network (CNN) model is trained on spectrogram images to automatically identify patterns corresponding to different types of gravitational wave signals.
+The project deals with identifying and recognizing gravitational wave signals through noisy space signals using deep learning. The CNN is trained to classify patterns that occur in spectrograms related to different kinds of gravitational wave signals.
 
-Gravitational waves are ripples in spacetime caused by massive cosmic events such as black hole mergers. Detecting these signals is challenging due to high levels of noise, making this an ideal application for AI.
-
+Gravitational waves are distortions in space-time that arise due to catastrophic celestial events like black hole collisions. These are difficult to detect due to the presence of significant amounts of noise.
 ---
 
 ##  Objective
@@ -47,9 +46,9 @@ Gravitational waves are ripples in spacetime caused by massive cosmic events suc
 
 ---
 
-## Results & Visualizations
+## Results And Visualizations
 
-The following visualizations were generated to evaluate the model:
+The following are the visualizations  generated to evaluate the model:
 
 *  Training Accuracy vs Validation Accuracy
 *  Training Loss vs Validation Loss
@@ -57,8 +56,6 @@ The following visualizations were generated to evaluate the model:
 *  ROC Curve (Multi-class)
 *  Precision-Recall Curve
 * Sample Predictions (Correct vs Incorrect)
-
-*(Add screenshots of these graphs in an `images/` folder and link them here)*
 
 ##  Technologies Used
 
