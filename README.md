@@ -84,16 +84,22 @@ pip install tensorflow numpy matplotlib scikit-learn
 * Handling noisy real-world data
 * Model evaluation using multiple metrics
 * Visualization of model performance
-##Some of the Screenshots
-##confusion matrix
+## Some of the Screenshots
+
+## confusion matrix
+
 <img width="567" height="471" alt="image" src="https://github.com/user-attachments/assets/367ee54e-b96e-468d-88dd-10a67732f115" />
-##Audio/Signal Classification evaluation
+## Audio/Signal Classification evaluation
+
 <img width="437" height="482" alt="image" src="https://github.com/user-attachments/assets/2be0b223-8360-47b9-919c-78108191125f" />
-##ROC Curve
+## ROC Curve
+
 <img width="760" height="601" alt="image" src="https://github.com/user-attachments/assets/b0e9fbd6-631e-44e3-8b90-026e0a3dd954" />
-##Class Distributions
+## Class Distributions
+
 <img width="955" height="652" alt="image" src="https://github.com/user-attachments/assets/a75031b8-d966-4b32-9940-362c05fc206f" />
-##Precision Recall Curve
+## Precision Recall Curve
+
 <img width="763" height="603" alt="image" src="https://github.com/user-attachments/assets/a7483fe5-45a2-4582-b321-974828b9d67f" />
 
 ##  Applications
