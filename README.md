@@ -45,7 +45,17 @@ Gravitational waves are distortions in space-time that arise due to catastrophic
 * Top-K Accuracy
 
 ---
+## 📊 Results
 
+The CNN model was trained for 10 epochs on a dataset containing 31,868 spectrogram images across 22 classes.
+
+| Metric | Performance |
+|--------|-------------|
+| Training Accuracy | 96.98% |
+| Best Validation Accuracy | 94.85% |
+| Test Accuracy | 94.75% |
+
+The model achieved a test accuracy of 94.75%, demonstrating strong performance in classifying gravitational-wave signal patterns across multiple classes.
 ## Results And Visualizations
 
 The following are the visualizations  generated to evaluate the model:
