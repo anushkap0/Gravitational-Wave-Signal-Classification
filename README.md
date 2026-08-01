@@ -118,5 +118,21 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 Dataset inspired by gravitational wave detection research (Gravity Spy / Kaggle)
 (https://www.kaggle.com/datasets/tentotheminus9/gravity-spy-gravitational-waves)
+## 📂 Dataset
+
+The project uses the Gravity Spy gravitational-wave spectrogram dataset. The dataset contains labeled spectrogram images representing different types of gravitational-wave signal morphologies and noise patterns.
+
+### Dataset Distribution
+
+| Dataset Split | Number of Images | Number of Classes |
+|--------------|------------------|-------------------|
+| Training     | 22,348           | 22                |
+| Validation   | 4,800            | 22                |
+| Testing      | 4,720            | 22                |
+| **Total**    | **31,868**       | **22**            |
+
+The dataset is divided into training, validation, and testing sets to train the CNN model, monitor its performance during training, and evaluate its final generalization performance.
+
+Due to the size of the dataset, the raw dataset is not included in this repository.
 
 ---
