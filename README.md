@@ -120,7 +120,7 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 ##  Author
 
-**Anushka Pokhriyal**
+**Anushka **
 
 ---
 
